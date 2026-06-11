@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+jinja2
+python-multipart
+midiutil
+midi2audio
+pyfluidsynth
+mido
+pretty_midi
+aiofiles
+pydantic
+sqlalchemy
+passlib[bcrypt]
